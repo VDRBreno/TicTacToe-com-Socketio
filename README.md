@@ -2,7 +2,7 @@
 
 Aplicação simples de um jogo da velha usando Socket.io
 
-## :SCREEN ICON: Preview
+## :tv: Preview
 
 <img src='./assets/login.png' alt='login-image' style='width:500px' />
 <img src='./assets/home.png' alt='home-image' style='width:500px' />
